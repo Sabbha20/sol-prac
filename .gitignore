@@ -1,0 +1,54 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Hardhat files
+artifacts/
+cache/
+coverage/
+typechain/
+typechain-types/
+.states/
+.deps/
+
+
+# Truffle files
+build/
+
+# Remix IDE files
+remix-ide/
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# VSCode settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Linux files
+*.swp
+
+# Coverage reports
+coverage/
+coverage.json
+
+scenario*.*
+
+# Solidity test results
+test-results/
+
+# Compiled contracts
+*.sol.js
+*.abi
+*.bin
+
+# Log files
+*.log
+
+
+
